@@ -1,0 +1,6 @@
+module Pods_MapAssignment {
+  umbrella header "Pods-MapAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

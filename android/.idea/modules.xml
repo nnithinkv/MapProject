@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MapAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/MapAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MapAssignment.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-667025831/MapAssignment.react-native-maps.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-555075859/MapAssignment.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1424223045/MapAssignment.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-99158318/MapAssignment.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1425149865/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
